@@ -1,2 +1,2 @@
-var sm = require('./sum');
+let sm = require('./sum');
 console.log(sm.sum(5,6)); 
