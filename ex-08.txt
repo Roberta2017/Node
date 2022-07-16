@@ -1,0 +1,6 @@
+
+content-type: application/json; charset=utf-8
+
+
+ho fatto richiesta http con 
+>curl -v "indirizzo" e ho cercato il content-type
